@@ -37,5 +37,5 @@ Este plugin é licenciado sob a GNU General Public License v2.0.
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato com your.email@example.com.
+Para dúvidas ou sugestões, entre em contato com god.rafa365@gmail.com.
 
