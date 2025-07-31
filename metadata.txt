@@ -1,0 +1,13 @@
+[general]
+name=QGIS Line Trimmer
+email=god.rafa365@gmail.com
+author=Godinho
+qgisMinimumVersion=3.0
+description=Um plugin para QGIS que corta automaticamente linhas quando elas se cruzam durante a vetorização.
+about=Este plugin detecta interseções entre linhas existentes e a linha que está sendo digitalizada, cortando a nova linha no ponto de interseção.
+version=0.1
+category=Vector
+homepage=https://github.com/Godinho365/qgis_line_trimmer
+repository=https://github.com/Godinho365/qgis_line_trimmer.git
+icon=icons/icon.png
+
